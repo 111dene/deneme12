@@ -20,3 +20,4 @@ async def pasw(ctx):
     await ctx.send(gen_pass(10))
 
 bot.run("Token")
+print
